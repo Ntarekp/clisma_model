@@ -1,0 +1,5 @@
+train: C:/Users/rca/Documents/clisma/gnplate/merged_dataset/images/train
+val: C:/Users/rca/Documents/clisma/gnplate/merged_dataset/images/val
+
+nc: 1
+names: ["plate"]
