@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41185e4c-c1ac-4685-a7f5-920a29b67ce7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/clisma.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gnplate/gen_simple_plates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gnplate/kaggle/dataset/data.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gnplate/kaggle/voc_to_yolo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/detect/train/args.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/detect/train/labels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/detect/train/results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/detect/train/train_batch0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/detect/train/train_batch1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/detect/train/train_batch2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/detect/train/weights/best.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/detect/train/weights/last.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov8n.pt" beforeDir="false" afterPath="$PROJECT_DIR$/yolov8n.pt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,27 +40,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.gen_simple_plates.executor": "Run",
-    "Python.get_kaggle.executor": "Run",
-    "Python.import_data_set.executor": "Run",
-    "Python.test_env.executor": "Run",
-    "Python.voc_to_yolo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/rca/Documents/clisma/gnplate/kaggle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.gen_simple_plates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_kaggle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.import_data_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_env.executor&quot;: &quot;Run&quot;,
+    &quot;Python.voc_to_yolo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;datagrid.heatmap.switchedByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rca/Documents/clisma/gnplate/kaggle&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rca\Documents\clisma\gnplate\kaggle" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rca\Documents\clisma\gnplate" />
       <recent name="C:\Users\rca\Documents\clisma\gnplate\kaggle\dataset" />
     </key>
   </component>
