@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41185e4c-c1ac-4685-a7f5-920a29b67ce7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ocr_results/detected_plates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ocr_results/detected_plates.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runs/detect/train/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect/train/results.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runs/detect/train/weights/best.pt" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect/train/weights/best.pt" afterDir="false" />
