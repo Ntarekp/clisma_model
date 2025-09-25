@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41185e4c-c1ac-4685-a7f5-920a29b67ce7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gnplate/camera_detect_ocr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gnplate/camera_vehicle_plate_ocr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gnplate/toycar_data.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocr_results/detected_plates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ocr_results/detected_plates.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnplate/toy_train/yolov8n.pt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
