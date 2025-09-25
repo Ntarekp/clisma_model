@@ -1,0 +1,5 @@
+train: C:/Users/rca/Documents/clisma/gnplate/toycar_dataset/train/images
+val: C:/Users/rca/Documents/clisma/gnplate/toycar_dataset/val/images
+
+nc: 1
+names: ["toycar"]

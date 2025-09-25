@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41185e4c-c1ac-4685-a7f5-920a29b67ce7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gnplate/camera_detect_ocr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gnplate/camera_vehicle_plate_ocr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gnplate/toycar_data.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ocr_results/detected_plates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ocr_results/detected_plates.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect/train/results.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/weights/best.pt" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect/train/weights/best.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/weights/last.pt" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect/train/weights/last.pt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +38,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.camera_detect_ocr.executor": "Run",
+    "Python.camera_vehicle_plate_ocr.executor": "Run",
     "Python.detect_and_ocr.executor": "Run",
     "Python.gen_simple_plates.executor": "Run",
     "Python.get_kaggle.executor": "Run",
     "Python.import_data_set.executor": "Run",
+    "Python.live_detect.executor": "Run",
     "Python.test_env.executor": "Run",
     "Python.voc_to_yolo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
