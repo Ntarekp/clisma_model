@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41185e4c-c1ac-4685-a7f5-920a29b67ce7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/gnplate/toy_train/yolov8n.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gnplate/toycar_dataset" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -30,27 +30,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.camera_detect_ocr.executor": "Run",
-    "Python.camera_vehicle_plate_ocr.executor": "Run",
-    "Python.detect_and_ocr.executor": "Run",
-    "Python.gen_simple_plates.executor": "Run",
-    "Python.get_kaggle.executor": "Run",
-    "Python.import_data_set.executor": "Run",
-    "Python.live_detect.executor": "Run",
-    "Python.test_env.executor": "Run",
-    "Python.voc_to_yolo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "datagrid.heatmap.switchedByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/rca/Documents/clisma/gnplate/kaggle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.camera_detect_ocr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.camera_vehicle_plate_ocr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detect_and_ocr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gen_simple_plates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_kaggle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.import_data_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.live_detect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_env.executor&quot;: &quot;Run&quot;,
+    &quot;Python.voc_to_yolo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;datagrid.heatmap.switchedByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rca/Documents/clisma/gnplate/kaggle&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rca\Documents\clisma\gnplate\kaggle" />
